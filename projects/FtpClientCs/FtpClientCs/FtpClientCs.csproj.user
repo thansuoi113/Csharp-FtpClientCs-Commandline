@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>PTC=SFTP FMD=F FH="pyvengineetst.pyv.com.vn" FU="pyvedp" FPW="pyvedp" FP=22 FMT=PUT FRV=F FF="E:\DATA BAOGA E\SOURCECODE\MYCODE\examcode\CARTON_IN_606T_baogatest.txt" TF="/sapfile/dev/PCMS_LEGACY_VN/POST/Transfered/CARTON_IN_606T_baogatest.txt"</StartArguments>
+  </PropertyGroup>
+</Project>

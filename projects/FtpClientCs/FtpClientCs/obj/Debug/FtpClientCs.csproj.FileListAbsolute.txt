@@ -1,0 +1,15 @@
+D:\SOURCE CODE\MYCODE\CSHARP\FtpClientCs\FtpClientCs\FtpClientCs\bin\Debug\FtpClientCs.exe.config
+D:\SOURCE CODE\MYCODE\CSHARP\FtpClientCs\FtpClientCs\FtpClientCs\bin\Debug\FtpClientCs.exe
+D:\SOURCE CODE\MYCODE\CSHARP\FtpClientCs\FtpClientCs\FtpClientCs\bin\Debug\FtpClientCs.pdb
+D:\SOURCE CODE\MYCODE\CSHARP\FtpClientCs\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.csproj.CoreCompileInputs.cache
+D:\SOURCE CODE\MYCODE\CSHARP\FtpClientCs\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.exe
+D:\SOURCE CODE\MYCODE\CSHARP\FtpClientCs\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.pdb
+D:\SOURCE CODE\MYCODE\CSHARP\FtpClientCs\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.csproj.CopyComplete
+D:\soft\FtpClientCs\FtpClientCs\bin\Debug\FtpClientCs.exe.config
+D:\soft\FtpClientCs\FtpClientCs\bin\Debug\FtpClientCs.exe
+D:\soft\FtpClientCs\FtpClientCs\bin\Debug\FtpClientCs.pdb
+D:\soft\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.csprojAssemblyReference.cache
+D:\soft\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.csproj.CoreCompileInputs.cache
+D:\soft\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.csproj.CopyComplete
+D:\soft\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.exe
+D:\soft\FtpClientCs\FtpClientCs\obj\Debug\FtpClientCs.pdb
